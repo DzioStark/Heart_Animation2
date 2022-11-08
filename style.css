@@ -3,13 +3,8 @@ p{
 	-webkit-background-clip: text;
 	background-image: linear-gradient(to left, #0096CC, #F705AA);
 	color: transparent;
-	font-size: 5.25rem;
-	font-weight: 600;
+	font-size: 8rem;
     text-align: center;
     
-}
-
-span{
-	font-size: 1.25rem;
 }
 
