@@ -1,0 +1,23 @@
+p{
+	font-family: "Quicksand", sans-serif;
+	-webkit-background-clip: text;
+	background-image: linear-gradient(to left, #0096CC, #F705AA);
+	color: transparent;
+	font-size: 2.2rem;
+	font-weight: 600;
+	padding-top: 45%;
+    text-align: center;
+    
+}
+
+span{
+    font-family: "Quicksand", sans-serif;
+	-webkit-background-clip: text;
+	background-image: linear-gradient(to left, #0096CC, #F705AA);
+	color: transparent;
+	font-size: 1rem;
+	font-weight: 600;
+	padding-top: 45%;
+    text-align: center;
+}
+
